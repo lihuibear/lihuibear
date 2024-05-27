@@ -11,5 +11,4 @@
 <img src="https://komarev.com/ghpvc/?username=lihuibear4&abbreviated=true" />
 -->
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,cpp,idea,ai,linux)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihuibear4&layout=compact&theme=tokyonight)
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
