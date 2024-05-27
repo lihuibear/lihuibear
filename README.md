@@ -10,4 +10,4 @@
 <!--
 <img src="https://komarev.com/ghpvc/?username=lihuibear4&abbreviated=true" />
 -->
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,cpp,idea,ai,linux)](https://skillicons.dev)
