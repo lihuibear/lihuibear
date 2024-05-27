@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihuibear4)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihuibear4&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=lihuibear4&abbreviated=true" />
