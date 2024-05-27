@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm lihuibear&fontSize=90)
 <!--
 **GULU-H/GULU-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <!--
 <img src="https://komarev.com/ghpvc/?username=lihuibear4&abbreviated=true" />
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=lihuibear&fontSize=90)
+
