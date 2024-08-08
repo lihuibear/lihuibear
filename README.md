@@ -11,6 +11,6 @@
 - [lihuibear4 博客](https://blog.lihuibear4.cn)
 - [lihuibear4 笔记](https://lihuibear4.cn)
 
-### Awards
+### Awards/奖项
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihuibear4&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
