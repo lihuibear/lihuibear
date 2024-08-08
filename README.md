@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lihuibear4&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&locale=cn&hide=contribs" />
 
-👨🏻‍💻 Full Stack Developer
+👨🏻‍💻 正在努力的全干人
 
-📝 鸟欲高飞先振翅，人求上进先读书。
+📝 明天见！
 
 ### Website
 
