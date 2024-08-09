@@ -6,11 +6,18 @@
 
 📝 明天见！/ See you tomorrow！
 
-### Website/网站
+### Website / 网站
 
 - [lihuibear 博客](https://blog.lihuibear.cn)
 - [lihuibear 笔记](https://lihuibear.cn)
 
-### Awards/奖项
+### Awards / 奖项
+2023年16届4C大数据赛道(中国计算机设计大赛)省级二等奖🥈
+2024年17届4C大数据赛道(中国计算机设计大赛)省级一等奖🥇
+
+2023年16届4C大数据赛道(中国计算机设计大赛)国家级三等奖🥉
+2024年17届4C大数据赛道(中国计算机设计大赛)国家级三等奖🥉
+2024年15届蓝桥杯河北赛区C/C++B组三等奖🥉
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihuibear&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
