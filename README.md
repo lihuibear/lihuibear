@@ -12,12 +12,13 @@
 - [lihuibear 笔记](https://lihuibear.cn)
 
 ### Awards / 奖项
-2023年16届4C大数据赛道(中国计算机设计大赛)省级二等奖🥈
-2024年17届4C大数据赛道(中国计算机设计大赛)省级一等奖🥇
-
-2023年16届4C大数据赛道(中国计算机设计大赛)国家级三等奖🥉
-2024年17届4C大数据赛道(中国计算机设计大赛)国家级三等奖🥉
-2024年15届蓝桥杯河北赛区C/C++B组三等奖🥉
+2023年16届4C大数据赛道(中国计算机设计大赛)省级二等奖🥈<br>
+2024年17届4C大数据赛道(中国计算机设计大赛)省级一等奖🥇<br>
+<hr>
+2023年16届4C大数据赛道(中国计算机设计大赛)国家级三等奖🥉<br>
+2024年17届4C大数据赛道(中国计算机设计大赛)国家级三等奖🥉<br>
+<hr>
+2024年15届蓝桥杯河北赛区C/C++B组三等奖🥉<br>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihuibear&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
