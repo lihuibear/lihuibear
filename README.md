@@ -1,6 +1,7 @@
 ##  👋 Hello I' m lihuibear!
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lihuibear&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&locale=cn&hide=contribs" />
+<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihuibear&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
 
 👨🏻‍💻 正在努力的全干人 / Full-stack development ING
