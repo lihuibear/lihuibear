@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 About Me / 关于我
 
 - 正在努力的全干人 / Full-stack developer in progress.
+- 联系方式 / email: lihui030304@163.com
 - 明天见！/ "See you tomorrow!" is my motto.
 
 ### 🌐 Website / 网站
